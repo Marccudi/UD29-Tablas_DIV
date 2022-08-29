@@ -1,0 +1,21 @@
+.fuera{
+    
+    background: url(../img/f01.png) left bottom repeat-x, 
+    url(../img/f02.png) left bottom no-repeat, 
+    url(../img/f03.png) left top repeat-x;
+    background-color: lightskyblue;
+    height: 120px;
+    width: 220px;
+    border: solid 2px blue;
+}
+
+.dentro{
+    background: url(../img/f01.png) left bottom repeat-x, 
+    url(../img/f02.png) left bottom no-repeat, 
+    url(../img/f03.png) left top repeat-x;
+    background-color: lightskyblue;
+    height: 240px;
+    width: 500px;
+    border: solid 2px red;
+    margin: 10px;
+}

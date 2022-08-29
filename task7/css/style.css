@@ -1,19 +1,13 @@
 body{
     background-image: url('../img/ac.jpg');
 }
-table{
+table {
     border: solid 5px;
     text-align: center;
 }
-.todo{
-    position: relative;
-    width: 100%;
-    height: 100%;
-}
-div div{
-    padding-top: 10px;
-    height: 120px;
-    width: 120px;
+.todo table tr td > div {
+    height: 100px;
+    width: 100px;
     background-color: white;
     text-transform: uppercase;
     border: solid;
@@ -23,8 +17,12 @@ div div{
     background-image: url('../img/back_mantel.jpg');
 }
 .b{
+    background-color: transparent !important;
+}
+.b > div {
     background-image: url('../img/back_mantel.jpg');
-    background-repeat: repeat;
+    margin: 10px;
+    height: 80px;
 }
 .c{
     background-image: url('../img/back_mantel.jpg');
