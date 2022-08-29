@@ -1,0 +1,25 @@
+
+table{
+    
+    border-collapse: collapse;
+}
+th,td{
+    border: solid 3px lightseagreen;
+    
+}
+th{
+    padding: 5px;
+    background-color: #003333;
+    color: #ccffcc;
+}
+td{padding-right: 10px;}
+tr{
+    background-color: #ccffcc;
+}
+tr:last-child{
+    background-color: #99cc99;
+}
+
+.centro{
+    text-align: center;
+}

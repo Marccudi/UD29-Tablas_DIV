@@ -1,0 +1,34 @@
+table{
+    
+    border: solid 1px;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    position: relative;
+    top: 40%;
+    background-color: wheat;
+    box-shadow: 2px 2px;
+}
+
+th {
+    background-color: whitesmoke;
+    font-weight: bold;
+}
+td{
+    background-color: #fdfd9b;
+
+}
+
+th,td{
+    border: solid 1px;
+}
+
+div{
+    position: absolute;
+    left: 10%;
+    height: 100%;
+    width: 80%;
+    background-image: url('https://fotografias.antena3.com/clipping/cmsimages01/2022/04/25/EF6EF455-9171-4197-93A6-CC0E27E63357/pinguinos_104.jpg?crop=1440,1440,x332,y0&width=1200&height=1200&optimize=low&format=webply');
+    background-repeat: no-repeat;
+    background-position: top center;
+}

@@ -1,0 +1,24 @@
+table{
+    border: solid 1px black;
+    border-collapse: collapse;
+    text-align: center;
+    color: darkred;
+}
+th,td{
+    border: solid 1px black;
+}
+th{
+    background-color: #669966;
+}
+.sub{
+    background-color: #ffcc99;
+}
+.tam{
+    background-color: #ffff99;
+}
+
+.perr{
+    background-image: url('../img/fondo.png');
+    background-size: 100%;
+    background-color: #ffffcc;
+}

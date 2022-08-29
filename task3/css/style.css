@@ -1,0 +1,27 @@
+
+table{
+    width: 100%;
+    text-align: center;
+    border: solid 1px;
+    border-collapse: collapse;
+    font-weight: bold;
+}
+td{
+    border: solid 1px;
+    padding: 5px;
+}
+.verde{
+    background-color: lightgreen;
+}
+.azul{
+    background-color: lightskyblue;
+}
+.rosa{
+    background-color: lightpink;
+}
+.centro{
+    color: red;
+    border: solid 1px black;
+}
+
+
